@@ -3,7 +3,7 @@
 | Task | Folder | Result |
 |---|---|---|
 | 1. Label call transcripts with an AI model on Groq | [`task1_labeler/`](task1_labeler/) | 64.2 / 70 on the 50 calls (all four labels right on 78% of calls) |
-| 2. Horses puzzle: 2nd and 3rd fastest | [`task2_horses/answer.md`](task2_horses/answer.md) | 7 races in total |
+| 2. Horses puzzle: 2nd and 3rd fastest | [`task2_horses/`](task2_horses/) (Excalidraw drawing; open it at [excalidraw.com](https://excalidraw.com)) | 7 races in total |
 | 3. Customer gender without a transformer model | [`task3_gender/`](task3_gender/) | 49 / 49 single-customer calls correct against hand-checked labels |
 
 Each folder has its own README.
