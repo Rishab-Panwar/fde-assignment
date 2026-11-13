@@ -1,0 +1,15 @@
+{
+ "records": 50,
+ "errors": 0,
+ "wall_seconds": 56.4,
+ "prompt_tokens": 251958,
+ "completion_tokens": 70263,
+ "est_cost_usd": 0.08,
+ "prompt_version": "v4",
+ "model": "openai/gpt-oss-120b",
+ "temperature": 0,
+ "top_p": 1,
+ "seed": 7,
+ "max_completion_tokens": 8192,
+ "reasoning_effort": "medium"
+}

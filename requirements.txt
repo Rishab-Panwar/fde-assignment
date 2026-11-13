@@ -1,0 +1,12 @@
+# Tested with Python 3.12.10.
+#
+# Task 1 runner (task1_labeler/run.py) and Task 3 classifier (task3_gender/gender.py) use the
+# Python standard library only; nothing below is needed to produce predictions.
+
+# Task 1: export the workbook to JSONL (task1_labeler/export_data.py)
+openpyxl==3.1.5
+
+# Task 3: evaluation-only TF-IDF / logistic-regression comparison (task3_gender/evaluate.py)
+scikit-learn==1.9.1
+numpy==2.5.4
+scipy==1.18.1

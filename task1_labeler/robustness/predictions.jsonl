@@ -1,0 +1,12 @@
+{"transcript_id": "SYN-01", "disposition": "Invalid Lead", "sub_disposition": "Wrong Contact", "lead_quality": "Not Qualified", "next_call_at": null}
+{"transcript_id": "SYN-02", "disposition": "Invalid Lead", "sub_disposition": "Test Enquiry", "lead_quality": "Not Qualified", "next_call_at": null}
+{"transcript_id": "SYN-03", "disposition": "Invalid Lead", "sub_disposition": "Policy Exclusion", "lead_quality": "Not Qualified", "next_call_at": null}
+{"transcript_id": "SYN-04", "disposition": "Not Interested", "sub_disposition": "Do Not Contact", "lead_quality": "Low", "next_call_at": null}
+{"transcript_id": "SYN-05", "disposition": "Not Interested", "sub_disposition": "Explicit Refusal", "lead_quality": "Low", "next_call_at": null}
+{"transcript_id": "SYN-06", "disposition": "Unable to Assess", "sub_disposition": "Incomplete Conversation", "lead_quality": "Not Assessable", "next_call_at": null}
+{"transcript_id": "SYN-07", "disposition": "Appointment Scheduled", "sub_disposition": "Online Consultation", "lead_quality": "High", "next_call_at": null}
+{"transcript_id": "SYN-08", "disposition": "Appointment Scheduled", "sub_disposition": "Rescheduled", "lead_quality": "High", "next_call_at": null}
+{"transcript_id": "SYN-09", "disposition": "Follow-up Required", "sub_disposition": "Travel Constraint", "lead_quality": "Medium", "next_call_at": "2026-11-09T16:00:00+05:30"}
+{"transcript_id": "SYN-10", "disposition": "Appointment Scheduled", "sub_disposition": "Clinic Visit", "lead_quality": "Medium", "next_call_at": null}
+{"transcript_id": "SYN-11", "disposition": "Invalid Lead", "sub_disposition": "Outside Service Area", "lead_quality": "Not Qualified", "next_call_at": null}
+{"transcript_id": "SYN-12", "disposition": "Invalid Lead", "sub_disposition": "No Pain Need", "lead_quality": "Not Qualified", "next_call_at": null}

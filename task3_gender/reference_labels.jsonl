@@ -1,0 +1,50 @@
+{"transcript_id": "AVT-001", "gender": "female", "certainty": "clear", "basis": "agent addresses caller as ma'am throughout"}
+{"transcript_id": "AVT-002", "gender": "male", "certainty": "clear", "basis": "agent: 'Hi sir', sir throughout"}
+{"transcript_id": "AVT-003", "gender": "male", "certainty": "clear", "basis": "female agent (Tara): 'Yes sir'; caller calls agent Madam (labels partly swapped)"}
+{"transcript_id": "AVT-004", "gender": "male", "certainty": "clear", "basis": "'Am I speaking with Vikram?' + sir"}
+{"transcript_id": "AVT-005", "gender": "male", "certainty": "clear", "basis": "'Hi Mahesh sir'"}
+{"transcript_id": "AVT-006", "gender": "male", "certainty": "clear", "basis": "'hi Prakash sir'"}
+{"transcript_id": "AVT-007", "gender": "male", "certainty": "clear", "basis": "'speaking to Mr. Kartik' + sir"}
+{"transcript_id": "AVT-008", "gender": "mixed", "certainty": "clear", "basis": "starts with 'Renu's husband speaking' (male), later Renu herself: 'let me talk to my husband' + ma'am (female); two callers"}
+{"transcript_id": "AVT-009", "gender": "male", "certainty": "clear", "basis": "agent: sir throughout"}
+{"transcript_id": "AVT-010", "gender": "female", "certainty": "clear", "basis": "agent: ma'am throughout"}
+{"transcript_id": "AVT-011", "gender": "female", "certainty": "clear", "basis": "agent: ma'am throughout; caller mentions 'my husband'"}
+{"transcript_id": "AVT-012", "gender": "male", "certainty": "clear", "basis": "sir + caller: 'even my wife is a doctor'"}
+{"transcript_id": "AVT-013", "gender": "male", "certainty": "clear", "basis": "'speaking with Sajid ji' + sir"}
+{"transcript_id": "AVT-014", "gender": "male", "certainty": "clear", "basis": "'Hi Bhaskar sir'"}
+{"transcript_id": "AVT-015", "gender": "male", "certainty": "weak", "basis": "agent: 'Can you hear me, sir?' once; caller also says sir to the agent; no other cue"}
+{"transcript_id": "AVT-016", "gender": "female", "certainty": "clear", "basis": "caller: 'I am Meera speaking' + ma'am"}
+{"transcript_id": "AVT-017", "gender": "male", "certainty": "clear", "basis": "'speaking with Arinveer' + sir"}
+{"transcript_id": "AVT-018", "gender": "male", "certainty": "clear", "basis": "agent: sir throughout"}
+{"transcript_id": "AVT-019", "gender": "male", "certainty": "weak", "basis": "agent: 'Okay, okay sir' once; caller also says sir to agent"}
+{"transcript_id": "AVT-020", "gender": "male", "certainty": "clear", "basis": "agent: sir throughout"}
+{"transcript_id": "AVT-021", "gender": "female", "certainty": "clear", "basis": "agent: 'Yes, ma'am' to caller; caller also says ma'am to (female) agent"}
+{"transcript_id": "AVT-022", "gender": "male", "certainty": "clear", "basis": "agent: sir throughout"}
+{"transcript_id": "AVT-023", "gender": "female", "certainty": "clear", "basis": "agent: ma'am; 'Pooja ji'"}
+{"transcript_id": "AVT-024", "gender": "male", "certainty": "clear", "basis": "'Rivan ji ... Sir'"}
+{"transcript_id": "AVT-025", "gender": "female", "certainty": "clear", "basis": "agent: Ma'am throughout"}
+{"transcript_id": "AVT-026", "gender": "female", "certainty": "clear", "basis": "agent: ma'am throughout"}
+{"transcript_id": "AVT-027", "gender": "male", "certainty": "clear", "basis": "agent: sir throughout"}
+{"transcript_id": "AVT-028", "gender": "female", "certainty": "clear", "basis": "agent: 'Hello ma'am'; caller describes own pain"}
+{"transcript_id": "AVT-029", "gender": "male", "certainty": "clear", "basis": "agent: sir"}
+{"transcript_id": "AVT-030", "gender": "female", "certainty": "clear", "basis": "agent: Ma'am throughout"}
+{"transcript_id": "AVT-031", "gender": "male", "certainty": "clear", "basis": "'My name is Nalin Venn' + 'this isn't my number, it's my wife's' + sir"}
+{"transcript_id": "AVT-032", "gender": "male", "certainty": "clear", "basis": "'Mr. Vikram Dev Venn'"}
+{"transcript_id": "AVT-033", "gender": "male", "certainty": "clear", "basis": "'Mr. R S Dheer' + sir"}
+{"transcript_id": "AVT-034", "gender": "male", "certainty": "clear", "basis": "caller: 'my wife has knee pain' + sir"}
+{"transcript_id": "AVT-035", "gender": "male", "certainty": "clear", "basis": "'My name is Sameer, sir' + agent sir"}
+{"transcript_id": "AVT-036", "gender": "female", "certainty": "clear", "basis": "agent: 'your husband' -> caller: 'Husband.'; agent: ma'am"}
+{"transcript_id": "AVT-037", "gender": "female", "certainty": "clear", "basis": "'Hi ma'am' + ma'am throughout"}
+{"transcript_id": "AVT-038", "gender": "male", "certainty": "clear", "basis": "agent: sir throughout"}
+{"transcript_id": "AVT-039", "gender": "male", "certainty": "weak", "basis": "caller: 'My name is Zayan' (male name); agent never addresses caller; caller says Ma'am to female agent"}
+{"transcript_id": "AVT-040", "gender": "male", "certainty": "clear", "basis": "agent: sir throughout; caller says madam to agent"}
+{"transcript_id": "AVT-041", "gender": "male", "certainty": "clear", "basis": "'Dev Mehta ji' + sir"}
+{"transcript_id": "AVT-042", "gender": "male", "certainty": "weak", "basis": "agent: 'Sir' once; caller calls agent 'Brother'"}
+{"transcript_id": "AVT-043", "gender": "female", "certainty": "clear", "basis": "'Hi, Leela ma'am'"}
+{"transcript_id": "AVT-044", "gender": "male", "certainty": "clear", "basis": "'My name is Naren Suri' + 'Mr. Naren'"}
+{"transcript_id": "AVT-045", "gender": "male", "certainty": "clear", "basis": "'hi Vedant' + sir"}
+{"transcript_id": "AVT-046", "gender": "female", "certainty": "clear", "basis": "agent: ma'am throughout"}
+{"transcript_id": "AVT-047", "gender": "male", "certainty": "clear", "basis": "agent: sir throughout"}
+{"transcript_id": "AVT-048", "gender": "male", "certainty": "weak", "basis": "agent: 'I was saying, sir' / 'Okay, sir' (two short cues)"}
+{"transcript_id": "AVT-049", "gender": "male", "certainty": "clear", "basis": "'Mr. Pranav'"}
+{"transcript_id": "AVT-050", "gender": "male", "certainty": "clear", "basis": "'Mr. Naren Suri' + sir; caller says ma'am to agent"}

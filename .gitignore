@@ -1,0 +1,20 @@
+# secrets
+.env
+**/.env
+
+# local caches (model responses; not needed to reproduce results from out/)
+.cache/
+.cache_rerun/
+**/.cache/
+**/.cache_rerun/
+
+# python
+__pycache__/
+*.pyc
+
+# company data: not published. Reviewers regenerate it from the workbook they provided:
+#   cd task1_labeler && python export_data.py "<workbook>.xlsx" data   (byte-identical to what was used)
+*.xlsx
+task1_labeler/data/calls.jsonl
+task1_labeler/data/gold.jsonl
+task1_labeler/data/dev_errors_e1.jsonl
